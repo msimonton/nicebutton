@@ -10,19 +10,31 @@ body {
 
 button  {
   background-color: blue;
-  width:20em;
-  height:10em;
+  padding:5%;
   margin:auto;
+  display:flex;
+  justify-content: center;
+  margin-top:5em;
+  color:white;
+  font-size: 35px;
 
+}
+div  {
+  margin:auto;
 }
 #result {
   height:4em;
   width:20em;
+  display:flex;
+  margin:auto;
+  justify-content: center;
+  margin-top:3em
+
 }
 h1  {
   color:white;
 }
-#result h1  {
+#result h2  {
   color:white;
 
 }
