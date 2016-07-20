@@ -1,0 +1,28 @@
+header {
+  background-color: red;
+  width:20em;
+  text-align:center;
+  margin:auto;
+}
+body {
+  background-color:green;
+}
+
+button  {
+  background-color: blue;
+  width:20em;
+  height:10em;
+  margin:auto;
+
+}
+#result {
+  height:4em;
+  width:20em;
+}
+h1  {
+  color:white;
+}
+#result h1  {
+  color:white;
+
+}
